@@ -1,7 +1,45 @@
+*{
+	border: 1px solid red !important;
+}
+
 body{
 	background:green;
 }
 
 p{
 	color: red;
+}
+
+.row{
+	width:100%;
+}
+
+.col-4{
+	width:33.33%;
+	margin-left: 5px;
+	margin-right: 3px;
+}
+
+.col-2{
+	width:16.66%;
+	margin-left: 5px;
+	margin-right: 3px;
+}
+
+.col-6{
+	width:50%;
+	margin-left: 5px;
+	margin-right: 3px;
+}
+
+.col-8{
+	width:66.66%;
+	margin-left: 5px;
+	margin-right: 3px;
+}
+
+.col-10{
+	width:81.33%;
+	margin-left: 5px;
+	margin-right: 3px;
 }
