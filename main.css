@@ -1,9 +1,9 @@
 body{
-	background:#c1cec9;
+	background:linen;
 }
 
 p{
-	color: red;
+	color: darkslateblue;
 }
 
 .row{
@@ -13,30 +13,37 @@ p{
 
 .col-4{
 	width:33.33%;
+	padding:2px;
 	margin-left: 5px;
 	margin-right: 3px;
 }
 
 .col-2{
 	width:16.66%;
+	padding:2px;
 	margin-left: 5px;
 	margin-right: 3px;
 }
 
 .col-6{
 	width:50%;
+	padding:2px;
 	margin-left: 5px;
 	margin-right: 3px;
 }
 
 .col-8{
 	width:66.66%;
+	padding:2px;
 	margin-left: 5px;
 	margin-right: 3px;
 }
 
 .col-10{
 	width:81.33%;
+	padding:2px;
 	margin-left: 5px;
 	margin-right: 3px;
+	text-align: center;
+	font-size:50px;
 }
