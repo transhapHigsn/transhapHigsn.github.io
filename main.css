@@ -1,9 +1,5 @@
-*{
-	border: 1px solid red !important;
-}
-
 body{
-	background:green;
+	background:#c1cec9;
 }
 
 p{
@@ -12,6 +8,7 @@ p{
 
 .row{
 	width:100%;
+	display:flex;
 }
 
 .col-4{
