@@ -3,6 +3,8 @@ baseURL = "https://example.com"
 languageCode = "en-us"
 theme = "ananke"
 
+publishDir="public"
+
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
